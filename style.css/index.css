@@ -1,0 +1,68 @@
+header{
+    background-image:url(../img/pattern.png);
+    background-color: rgb(135, 192, 235);
+    background-size: 150px;
+}
+#logo{
+    width: 154px;
+    margin-left: 15%;
+    margin-top: 25px;
+}
+.under-title{
+    line-height: 0px;
+    color: grey;
+}
+
+h1{
+    margin-bottom: 8px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+ 
+.grass{
+    font-weight: 600;
+}
+
+.list{
+    margin-top: 35px;
+}
+
+#top-table{
+    color: white;
+    background-color: rgba(0, 110, 255, 0.87);
+}
+
+.body-table{
+    background-color: lightblue;
+}
+
+#maybe{
+    color:grey;
+    margin-top: 10px;
+}
+
+.last-photo1{
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    margin-bottom: 15px;
+}
+
+.last-photo2{
+    color: white;
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+}
+
+.margine{
+    margin:0 auto;
+    width: 70%;
+}
+
+table{
+    border-collapse: collapse;
+}
